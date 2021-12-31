@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "--Starting personalize"
+
+sudo chsh -s /bin/zsh $USER
